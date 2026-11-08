@@ -13,5 +13,6 @@
 複数のメールを、置換タグで日付,会社名などでフォルダを作り、指定したパスに<br>
 保存(エクスポート)できます。添付ファイルの保存、PDF,docx での保存も可能です。<br>
 保存先,書式等は、履歴ファイルに記録されるので次回以降の設定が簡略化されます。<br>
+右の Releases からダウンロードしてください。
 <br>
 <img width="1124" height="682" alt="画像" src="https://github.com/user-attachments/assets/6a56ffe1-a094-4db6-b9ba-20f3ff661d39" />
