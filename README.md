@@ -15,4 +15,4 @@
 保存先,書式等は、履歴ファイルに記録されるので次回以降の設定が簡略化されます。<br>
 右の Releases からダウンロードしてください。<br>
 <br>
-
+<img width="1124" height="682" alt="画像" src="https://github.com/user-attachments/assets/9af6e11a-a64c-46c7-a1f5-437c5cc20307" />
