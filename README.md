@@ -13,3 +13,4 @@
 保存(エクスポート)できます。添付ファイルの保存、PDF,docx での保存も可能です。<br>
 保存先、書式は履歴ファイルに記録して、次回以降の設定作業を簡略化できます。<br>
 <br>
+<img width="1124" height="682" alt="画像" src="https://github.com/user-attachments/assets/6a56ffe1-a094-4db6-b9ba-20f3ff661d39" />
